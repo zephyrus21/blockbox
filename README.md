@@ -1,4 +1,4 @@
-## ``` Decentralized File Storage. ```
+## ``` BlockBox ```
 
 
 ## 🔧 Project Diagram:
