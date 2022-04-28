@@ -1,19 +1,19 @@
-pragma solidity ^0.5.0;
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.13;
 
 contract DStorage {
-  // Name
-  // Number of files
-  // Mapping fileId=>Struct 
+    string public name = "DStorage";
 
-  // Struct
+    // Number of files
+    // Mapping fileId=>Struct
 
+    // Struct
 
-  // Event
+    // Event
 
-  constructor() public {
-  }
+    constructor() public {}
 
-  // Upload File function
+    // Upload File function
 
     // Make sure the file hash exists
 
@@ -27,11 +27,9 @@ contract DStorage {
 
     // Make sure file size is more than 0
 
-
     // Increment file id
 
     // Add File to the contract
 
     // Trigger an event
-
 }
